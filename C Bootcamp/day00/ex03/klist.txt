@@ -1,0 +1,6 @@
+Credentials cache: API:FB7F1974-17B0-4BF4-A2C3-BCF3E4B7D032
+        Principal: rmdaba@42.FR
+
+  Issued                Expires               Principal
+Mar 12 16:32:16 2018  Mar 19 16:32:10 2018  krbtgt/42.FR@42.FR
+Mar 12 16:32:22 2018  Mar 19 16:32:10 2018  host/vgs-fn1.42.fr@42.FR
