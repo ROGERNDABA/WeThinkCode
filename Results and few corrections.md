@@ -1,5 +1,6 @@
 # WeThinkCode
-All the work i have done as part of the WeThinkCode and Piscine 42 C bootcamp
+All the work i have done as part of the WeThinkCode and Piscine 42 C bootcamp.
+These are evaluations by the marking Program called moulinette.
 
 
 Day 00 : EVALUATED BY MOULINETTE  40%
